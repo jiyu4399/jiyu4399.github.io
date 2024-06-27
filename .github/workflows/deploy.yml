@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3  # 更新到 v3
+        with:
+          submodules: true  # 确保检查出子模块
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
