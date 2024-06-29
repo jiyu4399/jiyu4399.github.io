@@ -4,6 +4,4 @@ date = 2024-06-27T13:22:23+10:00
 draft = false
 +++
 
-I am JY, a student.
-bruh bruh burh
-fxxxk git
+于嘉澄，悉尼大学学生，主修计算数据科学与数学，懒人，但不是烂人。
